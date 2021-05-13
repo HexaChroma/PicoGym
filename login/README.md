@@ -12,6 +12,7 @@
 
 4. Stuck? Aww poor thing.. Why don't you see what's under the hood?
 > use ctrl+u to read **sourcecode** or `curl -s <uri>`
+> 
 > ![](docs/kekw.png)
 
 5. It loads JS? is this some kind of rest application? or something stupid?
